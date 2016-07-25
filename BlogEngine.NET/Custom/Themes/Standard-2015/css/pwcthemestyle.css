@@ -1,0 +1,34 @@
+/* Body Section */
+body { background-color: #EEE; }
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+	font-family: "Georgia","Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: 700; }
+.btn-wrapper { border-top: 1px solid #EEE; padding-top: 25px; margin-top: 15px; }
+
+/* Header Section */
+.header .title-wrapper hgroup h1 { color: #68231F;}
+.header .navbar-inverse { background-color: #68231F; }
+.header .navbar-inverse li a { color: #EEBFBD }
+
+/* Post Section */
+.post-header .post-title a { color: #A25F5B; }
+.post-header .post-title a:hover { color: #68231F; }
+.post .post-info { font-size: 13px; color: #A25F5B; }
+.post .post-info a { color: #A25F5B; }
+.post .post-info a:hover { font-size: 13px; color: #68121F; }
+.post a { color: #A25F5B; }
+.post a:hover { color: #A25F5B; }
+
+/* Search Widget */
+button {background-color: #A25F5B; }
+button a:hover { background-color: #68231F;}
+.search input[type=button] { border: none; padding: 0; height: 40px; width: 25%; background-color: #A25F5B; color: #fff; border-radius: 4px; }
+.search input[type=button]:hover { background-color: #68231F; }
+.btn-primary { background-color: #A25F5B; border-color: #A25F5B; }
+.btn-primary:hover { background-color: #68231F; }
+
+/* Administration Section */
+.widget .widget-header { color: #68231F; }
+.widget .widget-content a { color: #A25F5B; }
+.widget .widget-content a:hover { color: #68231F; }
+.widget .widget-content ul li a { color: #A25F5B; }
+.widget .widget-content ul li a:hover { color: #68231F; background: none; }

@@ -8,6 +8,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet" />
     <link href="css/responsive.css" rel="stylesheet" />
+    <link href="css/pwcthemestyle.css" rel="stylesheet" />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -76,9 +77,6 @@
                         </a>
                         <a href="https://twitter.com/[CUSTOMFIELD|THEME|Standard-2015|Twitter account|blogenginenet/]">
                             <img src="~/Custom/Themes/Standard-2015/images/twitter.png" runat="server" />
-                        </a>
-                        <a href="https://plus.google.com/[CUSTOMFIELD|THEME|Standard-2015|Google plus|u/0/]">
-                            <img src="~/Custom/Themes/Standard-2015/images/googleplus.png" runat="server" />
                         </a>
                         <a href="<%=Utils.FeedUrl %>">
                             <img src="~/Custom/Themes/Standard-2015/images/rss.png" runat="server" />

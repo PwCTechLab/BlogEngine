@@ -1,5 +1,6 @@
 ﻿using BlogEngine.Core.Data.Models;
 using BlogEngine.Tests.Fakes;
+using BlogEngine.NET;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using System;

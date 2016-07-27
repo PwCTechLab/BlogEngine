@@ -123,6 +123,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\account.master" />
+    <Content Include="Account\accountpwcstyle.css" />
     <Content Include="admin\app\content\blogs\blogView.html" />
     <Content Include="admin\app\content\categories\categoryView.html" />
     <Content Include="admin\app\content\comments\commentView.html" />
@@ -536,6 +537,7 @@
     <Content Include="Content\images\blog\flags\zm.png" />
     <Content Include="Content\images\blog\flags\zw.png" />
     <Content Include="Content\images\blog\pingback.png" />
+    <Content Include="Content\images\blog\pwclogobandw.PNG" />
     <Content Include="Content\images\blog\xfn\colleague.gif" />
     <Content Include="Content\images\blog\xfn\colleagueMet.gif" />
     <Content Include="Content\images\blog\xfn\contact.gif" />
@@ -553,6 +555,7 @@
     <Content Include="Custom\Themes\Standard-2015\CommentView.ascx" />
     <Content Include="Custom\Themes\Standard-2015\css\bootstrap.min.css" />
     <Content Include="Custom\Themes\Standard-2015\css\main.css" />
+    <Content Include="Custom\Themes\Standard-2015\css\pwcthemestyle.css" />
     <Content Include="Custom\Themes\Standard-2015\css\responsive.css" />
     <Content Include="Custom\Themes\Standard-2015\css\rtl.css" />
     <Content Include="Custom\Themes\Standard-2015\fonts\glyphicons-halflings-regular.svg" />

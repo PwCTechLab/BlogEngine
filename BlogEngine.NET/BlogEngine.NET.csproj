@@ -563,6 +563,7 @@
     <Content Include="Custom\Themes\Standard-2015\images\facebook.png" />
     <Content Include="Custom\Themes\Standard-2015\images\googleplus.png" />
     <Content Include="Custom\Themes\Standard-2015\images\logo.png" />
+    <Content Include="Custom\Themes\Standard-2015\images\pwclogobandw.PNG" />
     <Content Include="Custom\Themes\Standard-2015\images\rss.png" />
     <Content Include="Custom\Themes\Standard-2015\images\sarrow.png" />
     <Content Include="Custom\Themes\Standard-2015\images\twitter.png" />

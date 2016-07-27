@@ -1,0 +1,13 @@
+body { background-color: #fff; color: #68231F; /*font-family: "Georgia", "Helvetica Neue", Helvetica, Arial, sans-serif !important;*/ }
+
+.account { padding-top: 2%; }
+.account-box { background-color: #eee;}
+.account-header { margin-bottom: 0px; }
+.account-title { background-color: #68231F; color: #fff; }
+.account-body { padding: 25px; }
+
+.btn { background-color: #A25F5B; }
+.btn:hover { background-color: #68231F;}
+
+a { color: #68231F; }
+a:hover { color: #A25F5B; }

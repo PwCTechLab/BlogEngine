@@ -24,7 +24,8 @@
         <div class="account">
             <div class="account-header text-center">
                 <a href="http://www.pwc.com/" target="_blank">
-                    <img alt="BlogEngine.NET" src="../Content/images/blog/pwclogobandw.png" /></a>
+                    <img alt="BlogEngine.NET" src="../Content/images/blog/pwclogobandw.png" /> 
+                </a>
             </div>
              <div id="StatusBox">
                     <div id="AdminStatus" runat="server" style="display: none"></div>
